@@ -3,6 +3,7 @@ fun main() {
 }
 
 // 타입 추론
+// 기본형의 경우 타입 추론을 사용한다.
 fun typeInference() {
     val int = 5
     val string = "Hello"

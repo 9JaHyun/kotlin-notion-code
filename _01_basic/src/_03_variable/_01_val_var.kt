@@ -2,7 +2,7 @@ fun main() {
     immutableArray()
 }
 
-// val, var
+// val, var 차이
 fun valAndVar() {
     val number1: Int = 5
     var number2: Int = 5
